@@ -1,0 +1,14 @@
+[
+{
+  "modid": "sunmods",
+  "name": "Steril-magic",
+  "description": "Un mod pour le serveur steril-magic.",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Sundev79", "Darkultima", "BOBsonic576"],
+  "credits": "development : sundev79, textures and ideas : BOBsonic4",
+  "logoFile": "logo.png",
+  "dependencies": []
+}
+]

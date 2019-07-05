@@ -1,0 +1,17 @@
+#Items and Blocs
+item.chestPlate.name=Scandium chestPlate
+item.Helmet.name=Scandium Helmet
+item.Leegings.name=Scandium Leegings
+item.boots.name=Scandium boots
+item.Scandium_Sword.name=Scandium Sword
+item.Scandium.name=Scandium Ore
+item.Houe.name=Scandium Houe
+item.Pioche scandium.name=Scandium Pioche
+tile.BlockOre.name=Scandium Block Ore
+item.ScandiumPelle.name=Scandium Shovel
+item.HacheScandium.name=Scandium Axe
+tile.Scandium_block.name=Scandium Block
+#CreativeTabs
+itemGroup.lalalol=Steril-magic Mod
+item.BeriliumIngot.name=BeriliumIngot
+tile.BeriliumOre.name=BeriliumOre
